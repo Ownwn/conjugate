@@ -265,9 +265,7 @@ function App() {
     }
   }
 
-  const allDone =
-    allStatus.every((s) => s === 'correct') ||
-    allStatus.some((s, i) => s !== 'correct' && allAnswers[i].trim() === '')
+  const allDone = allStatus.every((s) => s === 'correct')
 
   return (
     <div className="app">
@@ -428,36 +426,36 @@ function App() {
             <span className="english">{allVerb.english}</span>
           </div>
 
-          <div className="all-grid">
-            {SUBJECTS.map((subject, i) => (
-              <div key={subject} className={`all-row ${allStatus[i]}`}>
-                <span className="all-subject">{subject}</span>
-                {allStatus[i] === 'correct' ? (
-                  <span className="all-correct">{allAnswers[i]}</span>
-                ) : (
-                  <input
-                    ref={(el) => {
-                      allInputs.current[i] = el
-                    }}
-                    autoComplete="off"
-                    autoCorrect="off"
-                    spellCheck={false}
-                    value={allAnswers[i]}
-                    onChange={(e) => setAllAnswer(i, e.target.value)}
-                    placeholder={allWrongs[i] >= 2 ? allVerb.forms[tense]![i] : '…'}
-                  />
-                )}
-              </div>
-            ))}
-          </div>
-
           <form
-            className="answer-form"
+            className="all-form"
             onSubmit={(e) => {
               e.preventDefault()
               checkAll()
             }}
           >
+            <div className="all-grid">
+              {SUBJECTS.map((subject, i) => (
+                <div key={subject} className={`all-row ${allStatus[i]}`}>
+                  <span className="all-subject">{subject}</span>
+                  {allStatus[i] === 'correct' ? (
+                    <span className="all-correct">{allAnswers[i]}</span>
+                  ) : (
+                    <input
+                      ref={(el) => {
+                        allInputs.current[i] = el
+                      }}
+                      autoComplete="off"
+                      autoCorrect="off"
+                      spellCheck={false}
+                      value={allAnswers[i]}
+                      onChange={(e) => setAllAnswer(i, e.target.value)}
+                      placeholder={allWrongs[i] >= 2 ? allVerb.forms[tense]![i] : '…'}
+                    />
+                  )}
+                </div>
+              ))}
+            </div>
+
             <button className="primary" type="submit" disabled={allDone}>
               Check
             </button>

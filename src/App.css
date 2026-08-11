@@ -304,6 +304,16 @@ button.ghost {
   justify-content: flex-start;
 }
 
+.all-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+
+  .primary {
+    align-self: center;
+  }
+}
+
 .all-grid {
   display: flex;
   flex-direction: column;
