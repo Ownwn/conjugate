@@ -17,10 +17,10 @@ export const TENSE_LABEL: Record<Tense, string> = {
 export const SUBJECTS = [
   'yo',
   'tú',
-  'él / ella / usted',
+  'él / usted',
   'nosotros',
   'vosotros',
-  'ellos / ellas / ustedes',
+  'ellos / ustedes',
 ]
 
 export function parseVerbs(text: string): Verb[] {
@@ -46,9 +46,9 @@ export function parseVerbs(text: string): Verb[] {
 }
 
 export function normalize(value: string): string {
-  return value
-    .toLowerCase()
-    .trim()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
+  return value.toLowerCase().trim()
+}
+
+export function stripDiacritics(value: string): string {
+  return value.normalize('NFD').replace(/[\u0300-\u036f]/g, '')
 }
