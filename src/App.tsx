@@ -361,6 +361,9 @@ function App() {
 
       {phase === 'quiz' && mode === 'single' && question && (
         <section className="card quiz">
+          <button className="ghost back" onClick={() => setPhase('setup')}>
+            ← Menu
+          </button>
           <QuizHeader tense={tense} answered={answered} correct={correct} streak={streak} best={best} poolSize={pool.length} />
 
           <div className="prompt">
@@ -415,6 +418,9 @@ function App() {
 
       {phase === 'quiz' && mode === 'all' && allVerb && (
         <section className="card quiz">
+          <button className="ghost back" onClick={() => setPhase('setup')}>
+            ← Menu
+          </button>
           <QuizHeader tense={tense} answered={answered} correct={correct} streak={streak} best={best} poolSize={pool.length} />
 
           <div className="prompt all-prompt">
@@ -464,6 +470,13 @@ function App() {
           {flash === 'correct' && <div className="flash" />}
         </section>
       )}
+
+      <footer className="footer">
+        made by{' '}
+        <a href="https://github.com/Ownwn" target="_blank" rel="noreferrer">
+          Owen Suter
+        </a>
+      </footer>
     </div>
   )
 }
