@@ -1,0 +1,320 @@
+hablar. present. hablo. hablas. habla. hablamos. habláis. hablan. to speak
+hablar. preterite. hablé. hablaste. habló. hablamos. hablasteis. hablaron. to speak
+
+comer. present. como. comes. come. comemos. coméis. comen. to eat
+comer. preterite. comí. comiste. comió. comimos. comisteis. comieron. to eat
+
+vivir. present. vivo. vives. vive. vivimos. vivís. viven. to live
+vivir. preterite. viví. viviste. vivió. vivimos. vivisteis. vivieron. to live
+
+trabajar. present. trabajo. trabajas. trabaja. trabajamos. trabajáis. trabajan. to work
+trabajar. preterite. trabajé. trabajaste. trabajó. trabajamos. trabajasteis. trabajaron. to work
+
+estudiar. present. estudio. estudias. estudia. estudiamos. estudiáis. estudian. to study
+estudiar. preterite. estudié. estudiaste. estudió. estudiamos. estudiasteis. estudiaron. to study
+
+bailar. present. bailo. bailas. baila. bailamos. bailáis. bailan. to dance
+bailar. preterite. bailé. bailaste. bailó. bailamos. bailasteis. bailaron. to dance
+
+cantar. present. canto. cantas. canta. cantamos. cantáis. cantan. to sing
+cantar. preterite. canté. cantaste. cantó. cantamos. cantasteis. cantaron. to sing
+
+caminar. present. camino. caminas. camina. caminamos. camináis. caminan. to walk
+caminar. preterite. caminé. caminaste. caminó. caminamos. caminasteis. caminaron. to walk
+
+mirar. present. miro. miras. mira. miramos. miráis. miran. to look/watch
+mirar. preterite. miré. miraste. miró. miramos. mirasteis. miraron. to look/watch
+
+escuchar. present. escucho. escuchas. escucha. escuchamos. escucháis. escuchan. to listen
+escuchar. preterite. escuché. escuchaste. escuchó. escuchamos. escuchasteis. escucharon. to listen
+
+necesitar. present. necesito. necesitas. necesita. necesitamos. necesitáis. necesitan. to need
+necesitar. preterite. necesité. necesitaste. necesitó. necesitamos. necesitasteis. necesitaron. to need
+
+usar. present. uso. usas. usa. usamos. usáis. usan. to use
+usar. preterite. usé. usaste. usó. usamos. usasteis. usaron. to use
+
+comprar. present. compro. compras. compra. compramos. compráis. compran. to buy
+comprar. preterite. compré. compraste. compró. compramos. comprasteis. compraron. to buy
+
+llegar. present. llego. llegas. llega. llegamos. llegáis. llegan. to arrive
+llegar. preterite. llegué. llegaste. llegó. llegamos. llegasteis. llegaron. to arrive
+
+entrar. present. entro. entras. entra. entramos. entráis. entran. to enter
+entrar. preterite. entré. entraste. entró. entramos. entrasteis. entraron. to enter
+
+terminar. present. termino. terminas. termina. terminamos. termináis. terminan. to finish
+terminar. preterite. terminé. terminaste. terminó. terminamos. terminasteis. terminaron. to finish
+
+cocinar. present. cocino. cocinas. cocina. cocinamos. cocináis. cocinan. to cook
+cocinar. preterite. cociné. cocinaste. cocinó. cocinamos. cocinasteis. cocinaron. to cook
+
+viajar. present. viajo. viajas. viaja. viajamos. viajáis. viajan. to travel
+viajar. preterite. viajé. viajaste. viajó. viajamos. viajasteis. viajaron. to travel
+
+visitar. present. visito. visitas. visita. visitamos. visitáis. visitan. to visit
+visitar. preterite. visité. visitaste. visitó. visitamos. visitasteis. visitaron. to visit
+
+ayudar. present. ayudo. ayudas. ayuda. ayudamos. ayudáis. ayudan. to help
+ayudar. preterite. ayudé. ayudaste. ayudó. ayudamos. ayudasteis. ayudaron. to help
+
+abrir. present. abro. abres. abre. abrimos. abrís. abren. to open
+abrir. preterite. abrí. abriste. abrió. abrimos. abristeis. abrieron. to open
+
+escribir. present. escribo. escribes. escribe. escribimos. escribís. escriben. to write
+escribir. preterite. escribí. escribiste. escribió. escribimos. escribisteis. escribieron. to write
+
+recibir. present. recibo. recibes. recibe. recibimos. recibís. reciben. to receive
+recibir. preterite. recibí. recibiste. recibió. recibimos. recibisteis. recibieron. to receive
+
+subir. present. subo. subes. sube. subimos. subís. suben. to go up/upload
+subir. preterite. subí. subiste. subió. subimos. subisteis. subieron. to go up/upload
+
+decidir. present. decido. decides. decide. decidimos. decidís. deciden. to decide
+decidir. preterite. decidí. decidiste. decidió. decidimos. decidisteis. decidieron. to decide
+
+compartir. present. comparto. compartes. comparte. compartimos. compartís. comparten. to share
+compartir. preterite. compartí. compartiste. compartió. compartimos. compartisteis. compartieron. to share
+
+aprender. present. aprendo. aprendes. aprende. aprendemos. aprendéis. aprenden. to learn
+aprender. preterite. aprendí. aprendiste. aprendió. aprendimos. aprendisteis. aprendieron. to learn
+
+vender. present. vendo. vendes. vende. vendemos. vendéis. venden. to sell
+vender. preterite. vendí. vendiste. vendió. vendimos. vendisteis. vendieron. to sell
+
+beber. present. bebo. bebes. bebe. bebemos. bebéis. beben. to drink
+beber. preterite. bebí. bebiste. bebió. bebimos. bebisteis. bebieron. to drink
+
+correr. present. corro. corres. corre. corremos. corréis. corren. to run
+correr. preterite. corrí. corriste. corrió. corrimos. corristeis. corrieron. to run
+
+responder. present. respondo. respondes. responde. respondemos. respondéis. responden. to answer
+responder. preterite. respondí. respondiste. respondió. respondimos. respondisteis. respondieron. to answer
+
+entender. present. entiendo. entiendes. entiende. entendemos. entendéis. entienden. to understand
+entender. preterite. entendí. entendiste. entendió. entendimos. entendisteis. entendieron. to understand
+
+pensar. present. pienso. piensas. piensa. pensamos. pensáis. piensan. to think
+pensar. preterite. pensé. pensaste. pensó. pensamos. pensasteis. pensaron. to think
+
+cerrar. present. cierro. cierras. cierra. cerramos. cerráis. cierran. to close
+cerrar. preterite. cerré. cerraste. cerró. cerramos. cerrasteis. cerraron. to close
+
+empezar. present. empiezo. empiezas. empieza. empezamos. empezáis. empiezan. to begin
+empezar. preterite. empecé. empezaste. empezó. empezamos. empezasteis. empezaron. to begin
+
+comenzar. present. comienzo. comienzas. comienza. comenzamos. comenzáis. comienzan. to begin
+comenzar. preterite. comencé. comenzaste. comenzó. comenzamos. comenzasteis. comenzaron. to begin
+
+volver. present. vuelvo. vuelves. vuelve. volvemos. volvéis. vuelven. to return
+volver. preterite. volví. volviste. volvió. volvimos. volvisteis. volvieron. to return
+
+poder. present. puedo. puedes. puede. podemos. podéis. pueden. to be able to
+poder. preterite. pude. pudiste. pudo. pudimos. pudisteis. pudieron. to be able to
+
+querer. present. quiero. quieres. quiere. queremos. queréis. quieren. to want/love
+querer. preterite. quise. quisiste. quiso. quisimos. quisisteis. quisieron. to want/love
+
+preferir. present. prefiero. prefieres. prefiere. preferimos. preferís. prefieren. to prefer
+preferir. preterite. preferí. preferiste. prefirió. preferimos. preferisteis. prefirieron. to prefer
+
+pedir. present. pido. pides. pide. pedimos. pedís. piden. to ask for/order
+pedir. preterite. pedí. pediste. pidió. pedimos. pedisteis. pidieron. to ask for/order
+
+servir. present. sirvo. sirves. sirve. servimos. servís. sirven. to serve
+servir. preterite. serví. serviste. sirvió. servimos. servisteis. sirvieron. to serve
+
+dormir. present. duermo. duermes. duerme. dormimos. dormís. duermen. to sleep
+dormir. preterite. dormí. dormiste. durmió. dormimos. dormisteis. durmieron. to sleep
+
+morir. present. muero. mueres. muere. morimos. morís. mueren. to die
+morir. preterite. morí. moriste. murió. morimos. moristeis. murieron. to die
+
+sentir. present. siento. sientes. siente. sentimos. sentís. sienten. to feel
+sentir. preterite. sentí. sentiste. sintió. sentimos. sentisteis. sintieron. to feel
+
+seguir. present. sigo. sigues. sigue. seguimos. seguís. siguen. to follow/continue
+seguir. preterite. seguí. seguiste. siguió. seguimos. seguisteis. siguieron. to follow/continue
+
+conseguir. present. consigo. consigues. consigue. conseguimos. conseguís. consiguen. to get/obtain
+conseguir. preterite. conseguí. conseguiste. consiguió. conseguimos. conseguisteis. consiguieron. to get/obtain
+
+repetir. present. repito. repites. repite. repetimos. repetís. repiten. to repeat
+repetir. preterite. repetí. repetiste. repitió. repetimos. repetisteis. repitieron. to repeat
+
+vestir. present. visto. vistes. viste. vestimos. vestís. visten. to dress
+vestir. preterite. vestí. vestiste. vistió. vestimos. vestisteis. vistieron. to dress
+
+jugar. present. juego. juegas. juega. jugamos. jugáis. juegan. to play
+jugar. preterite. jugué. jugaste. jugó. jugamos. jugasteis. jugaron. to play
+
+encontrar. present. encuentro. encuentras. encuentra. encontramos. encontráis. encuentran. to find
+encontrar. preterite. encontré. encontraste. encontró. encontramos. encontrasteis. encontraron. to find
+
+mostrar. present. muestro. muestras. muestra. mostramos. mostráis. muestran. to show
+mostrar. preterite. mostré. mostraste. mostró. mostramos. mostrasteis. mostraron. to show
+
+contar. present. cuento. cuentas. cuenta. contamos. contáis. cuentan. to count/tell
+contar. preterite. conté. contaste. contó. contamos. contasteis. contaron. to count/tell
+
+recordar. present. recuerdo. recuerdas. recuerda. recordamos. recordáis. recuerdan. to remember
+recordar. preterite. recordé. recordaste. recordó. recordamos. recordasteis. recordaron. to remember
+
+costar. present. cuesto. cuestas. cuesta. costamos. costáis. cuestan. to cost
+costar. preterite. costé. costaste. costó. costamos. costasteis. costaron. to cost
+
+conocer. present. conozco. conoces. conoce. conocemos. conocéis. conocen. to know/be acquainted with
+conocer. preterite. conocí. conociste. conoció. conocimos. conocisteis. conocieron. to know/be acquainted with
+
+saber. present. sé. sabes. sabe. sabemos. sabéis. saben. to know
+saber. preterite. supe. supiste. supo. supimos. supisteis. supieron. to know/find out
+
+hacer. present. hago. haces. hace. hacemos. hacéis. hacen. to do/make
+hacer. preterite. hice. hiciste. hizo. hicimos. hicisteis. hicieron. to do/make
+
+poner. present. pongo. pones. pone. ponemos. ponéis. ponen. to put/place
+poner. preterite. puse. pusiste. puso. pusimos. pusisteis. pusieron. to put/place
+
+salir. present. salgo. sales. sale. salimos. salís. salen. to leave/go out
+salir. preterite. salí. saliste. salió. salimos. salisteis. salieron. to leave/go out
+
+traer. present. traigo. traes. trae. traemos. traéis. traen. to bring
+traer. preterite. traje. trajiste. trajo. trajimos. trajisteis. trajeron. to bring
+
+decir. present. digo. dices. dice. decimos. decís. dicen. to say/tell
+decir. preterite. dije. dijiste. dijo. dijimos. dijisteis. dijeron. to say/tell
+
+tener. present. tengo. tienes. tiene. tenemos. tenéis. tienen. to have
+tener. preterite. tuve. tuviste. tuvo. tuvimos. tuvisteis. tuvieron. to have
+
+venir. present. vengo. vienes. viene. venimos. venís. vienen. to come
+venir. preterite. vine. viniste. vino. vinimos. vinisteis. vinieron. to come
+
+estar. present. estoy. estás. está. estamos. estáis. están. to be
+estar. preterite. estuve. estuviste. estuvo. estuvimos. estuvisteis. estuvieron. to be
+
+ser. present. soy. eres. es. somos. sois. son. to be
+ser. preterite. fui. fuiste. fue. fuimos. fuisteis. fueron. to be
+
+ir. present. voy. vas. va. vamos. vais. van. to go
+ir. preterite. fui. fuiste. fue. fuimos. fuisteis. fueron. to go
+
+dar. present. doy. das. da. damos. dais. dan. to give
+dar. preterite. di. diste. dio. dimos. disteis. dieron. to give
+
+ver. present. veo. ves. ve. vemos. veis. ven. to see
+ver. preterite. vi. viste. vio. vimos. visteis. vieron. to see
+
+leer. present. leo. lees. lee. leemos. leéis. leen. to read
+leer. preterite. leí. leíste. leyó. leímos. leísteis. leyeron. to read
+
+oír. present. oigo. oyes. oye. oímos. oís. oyen. to hear
+oír. preterite. oí. oíste. oyó. oímos. oísteis. oyeron. to hear
+
+caer. present. caigo. caes. cae. caemos. caéis. caen. to fall
+caer. preterite. caí. caíste. cayó. caímos. caísteis. cayeron. to fall
+
+creer. present. creo. crees. cree. creemos. creéis. creen. to believe
+creer. preterite. creí. creíste. creyó. creímos. creísteis. creyeron. to believe
+
+construir. present. construyo. construyes. construye. construimos. construís. construyen. to build
+construir. preterite. construí. construiste. construyó. construimos. construisteis. construyeron. to build
+
+huir. present. huyo. huyes. huye. huimos. huís. huyen. to flee
+huir. preterite. huí. huiste. huyó. huimos. huisteis. huyeron. to flee
+
+incluir. present. incluyo. incluyes. incluye. incluimos. incluís. incluyen. to include
+incluir. preterite. incluí. incluiste. incluyó. incluimos. incluisteis. incluyeron. to include
+
+explicar. present. explico. explicas. explica. explicamos. explicáis. explican. to explain
+explicar. preterite. expliqué. explicaste. explicó. explicamos. explicasteis. explicaron. to explain
+
+buscar. present. busco. buscas. busca. buscamos. buscáis. buscan. to search/look for
+buscar. preterite. busqué. buscaste. buscó. buscamos. buscasteis. buscaron. to search/look for
+
+pagar. present. pago. pagas. paga. pagamos. pagáis. pagan. to pay
+pagar. preterite. pagué. pagaste. pagó. pagamos. pagasteis. pagaron. to pay
+
+tocar. present. toco. tocas. toca. tocamos. tocáis. tocan. to touch/play
+tocar. preterite. toqué. tocaste. tocó. tocamos. tocasteis. tocaron. to touch/play
+
+llegar. present. llego. llegas. llega. llegamos. llegáis. llegan. to arrive
+llegar. preterite. llegué. llegaste. llegó. llegamos. llegasteis. llegaron. to arrive
+
+empezar. present. empiezo. empiezas. empieza. empezamos. empezáis. empiezan. to start
+empezar. preterite. empecé. empezaste. empezó. empezamos. empezasteis. empezaron. to start
+
+buscar. present. busco. buscas. busca. buscamos. buscáis. buscan. to look for
+buscar. preterite. busqué. buscaste. buscó. buscamos. buscasteis. buscaron. to look for
+
+llegar. present. llego. llegas. llega. llegamos. llegáis. llegan. to arrive
+llegar. preterite. llegué. llegaste. llegó. llegamos. llegasteis. llegaron. to arrive
+
+levantarse. present. me levanto. te levantas. se levanta. nos levantamos. os levantáis. se levantan. to get up
+levantarse. preterite. me levanté. te levantaste. se levantó. nos levantamos. os levantasteis. se levantaron. to get up
+
+acostarse. present. me acuesto. te acuestas. se acuesta. nos acostamos. os acostáis. se acuestan. to go to bed
+acostarse. preterite. me acosté. te acostaste. se acostó. nos acostamos. os acostasteis. se acostaron. to go to bed
+
+despertarse. present. me despierto. te despiertas. se despierta. nos despertamos. os despertáis. se despiertan. to wake up
+despertarse. preterite. me desperté. te despertaste. se despertó. nos despertamos. os despertasteis. se despertaron. to wake up
+
+vestirse. present. me visto. te vistes. se viste. nos vestimos. os vestís. se visten. to get dressed
+vestirse. preterite. me vestí. te vestiste. se vistió. nos vestimos. os vestisteis. se vistieron. to get dressed
+
+lavarse. present. me lavo. te lavas. se lava. nos lavamos. os laváis. se lavan. to wash oneself
+lavarse. preterite. me lavé. te lavaste. se lavó. nos lavamos. os lavasteis. se lavaron. to wash oneself
+
+ducharse. present. me ducho. te duchas. se ducha. nos duchamos. os ducháis. se duchan. to shower
+ducharse. preterite. me duché. te duchaste. se duchó. nos duchamos. os duchasteis. se ducharon. to shower
+
+afeitarse. present. me afeito. te afeitas. se afeita. nos afeitamos. os afeitáis. se afeitan. to shave
+afeitarse. preterite. me afeité. te afeitaste. se afeitó. nos afeitamos. os afeitasteis. se afeitaron. to shave
+
+maquillarse. present. me maquillo. te maquillas. se maquilla. nos maquillamos. os maquilláis. se maquillan. to put on makeup
+maquillarse. preterite. me maquillé. te maquillaste. se maquilló. nos maquillamos. os maquillasteis. se maquillaron. to put on makeup
+
+sentarse. present. me siento. te sientas. se sienta. nos sentamos. os sentáis. se sientan. to sit down
+sentarse. preterite. me senté. te sentaste. se sentó. nos sentamos. os sentasteis. se sentaron. to sit down
+
+divertirse. present. me divierto. te diviertes. se divierte. nos divertimos. os divertís. se divierten. to have fun
+divertirse. preterite. me divertí. te divertiste. se divirtió. nos divertimos. os divertisteis. se divirtieron. to have fun
+
+aburrirse. present. me aburro. te aburres. se aburre. nos aburrimos. os aburrís. se aburren. to get bored
+aburrirse. preterite. me aburrí. te aburriste. se aburrió. nos aburrimos. os aburristeis. se aburrieron. to get bored
+
+llamarse. present. me llamo. te llamas. se llama. nos llamamos. os llamáis. se llaman. to be called
+llamarse. preterite. me llamé. te llamaste. se llamó. nos llamamos. os llamasteis. se llamaron. to be called
+
+quedarse. present. me quedo. te quedas. se queda. nos quedamos. os quedáis. se quedan. to stay
+quedarse. preterite. me quedé. te quedaste. se quedó. nos quedamos. os quedasteis. se quedaron. to stay
+
+irse. present. me voy. te vas. se va. nos vamos. os vais. se van. to leave/go away
+irse. preterite. me fui. te fuiste. se fue. nos fuimos. os fuisteis. se fueron. to leave/go away
+
+darse. present. me doy. te das. se da. nos damos. os dais. se dan. to give oneself
+darse. preterite. me di. te diste. se dio. nos dimos. os disteis. se dieron. to give oneself
+
+ponerse. present. me pongo. te pones. se pone. nos ponemos. os ponéis. se ponen. to put on/become
+ponerse. preterite. me puse. te pusiste. se puso. nos pusimos. os pusisteis. se pusieron. to put on/become
+
+sentirse. present. me siento. te sientes. se siente. nos sentimos. os sentís. se sienten. to feel
+sentirse. preterite. me sentí. te sentiste. se sintió. nos sentimos. os sentisteis. se sintieron. to feel
+
+acordarse. present. me acuerdo. te acuerdas. se acuerda. nos acordamos. os acordáis. se acuerdan. to remember
+acordarse. preterite. me acordé. te acordaste. se acordó. nos acordamos. os acordasteis. se acordaron. to remember
+
+equivocarse. present. me equivoco. te equivocas. se equivoca. nos equivocamos. os equivocáis. se equivocan. to make a mistake
+equivocarse. preterite. me equivoqué. te equivocaste. se equivocó. nos equivocamos. os equivocasteis. se equivocaron. to make a mistake
+
+preocuparse. present. me preocupo. te preocupas. se preocupa. nos preocupamos. os preocupáis. se preocupan. to worry
+preocuparse. preterite. me preocupé. te preocupaste. se preocupó. nos preocupamos. os preocupasteis. se preocuparon. to worry
+
+quejarse. present. me quejo. te quejas. se queja. nos quejamos. os quejáis. se quejan. to complain
+quejarse. preterite. me quejé. te quejaste. se quejó. nos quejamos. os quejasteis. se quejaron. to complain
+
+enamorarse. present. me enamoro. te enamoras. se enamora. nos enamoramos. os enamoráis. se enamoran. to fall in love
+enamorarse. preterite. me enamoré. te enamoraste. se enamoró. nos enamoramos. os enamorasteis. se enamoraron. to fall in love
+
+casarse. present. me caso. te casas. se casa. nos casamos. os casáis. se casan. to get married
+casarse. preterite. me casé. te casaste. se casó. nos casamos. os casasteis. se casaron. to get married
