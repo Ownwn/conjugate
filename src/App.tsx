@@ -75,10 +75,12 @@ function App() {
   const [allAnswers, setAllAnswers] = useState<string[]>(Array(6).fill(''))
   const [allStatus, setAllStatus] = useState<Status[]>(Array(6).fill('idle'))
   const [allAttempted, setAllAttempted] = useState<boolean[]>(Array(6).fill(false))
+  const [allWrongs, setAllWrongs] = useState<number[]>(Array(6).fill(0))
 
   const mistakes = useRef<Map<string, number>>(new Map())
   const lastInfinitive = useRef<string | null>(null)
   const singleAttempted = useRef(false)
+  const singleWrongs = useRef(0)
   const flashTimer = useRef<number | undefined>(undefined)
   const inputRef = useRef<HTMLInputElement>(null)
   const allInputs = useRef<(HTMLInputElement | null)[]>([])
@@ -141,6 +143,7 @@ function App() {
 
   function advanceSingle() {
     singleAttempted.current = false
+    singleWrongs.current = 0
     const verb = pickVerb(lastInfinitive.current)
     lastInfinitive.current = verb.infinitive
     setQuestion({ verb, tense, subject: Math.floor(Math.random() * SUBJECTS.length) })
@@ -174,6 +177,7 @@ function App() {
         question.verb.infinitive,
         (mistakes.current.get(question.verb.infinitive) ?? 0) + 1,
       )
+      singleWrongs.current += 1
       setStreak(0)
       setStatus('wrong')
       setAnswer('')
@@ -188,6 +192,7 @@ function App() {
     setAllAnswers(Array(6).fill(''))
     setAllStatus(Array(6).fill('idle'))
     setAllAttempted(Array(6).fill(false))
+    setAllWrongs(Array(6).fill(0))
   }
 
   function setAllAnswer(i: number, value: string) {
@@ -203,6 +208,7 @@ function App() {
     const nextStatus = [...allStatus]
     const nextAnswers = [...allAnswers]
     const nextAttempted = [...allAttempted]
+    const nextWrongs = [...allWrongs]
     let newlyCorrect = 0
     let newlyAttempted = 0
     let anyWrong = false
@@ -227,6 +233,7 @@ function App() {
       } else {
         nextStatus[i] = 'wrong'
         nextAnswers[i] = ''
+        nextWrongs[i] += 1
         anyWrong = true
         if (firstAttempt) {
           mistakes.current.set(
@@ -242,6 +249,7 @@ function App() {
     setAllStatus(nextStatus)
     setAllAnswers(nextAnswers)
     setAllAttempted(nextAttempted)
+    setAllWrongs(nextWrongs)
 
     if (newlyCorrect > 0) bumpStreak(newlyCorrect)
     if (anyWrong) setStreak(0)
@@ -391,8 +399,14 @@ function App() {
           {status === 'wrong' && (
             <div className="feedback bad">
               <span className="feedback-answer">
-                Correct answer: <strong>{question.verb[question.tense][question.subject]}</strong>.
-                Try again!
+                {singleWrongs.current >= 2 ? (
+                  <>
+                    Correct answer: <strong>{question.verb[question.tense][question.subject]}</strong>.
+                    Try again!
+                  </>
+                ) : (
+                  'Try again!'
+                )}
               </span>
             </div>
           )}
@@ -430,7 +444,7 @@ function App() {
                     spellCheck={false}
                     value={allAnswers[i]}
                     onChange={(e) => setAllAnswer(i, e.target.value)}
-                    placeholder="…"
+                    placeholder={allWrongs[i] >= 2 ? allVerb[tense][i] : '…'}
                   />
                 )}
               </div>
