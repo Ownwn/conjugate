@@ -44,6 +44,28 @@
       margin-top: 10px;
     }
   }
+  .sub-label {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text);
+    margin: 12px 0 6px;
+  }
+}
+
+.toggle {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  color: var(--text-h);
+
+  input[type='checkbox'] {
+    width: 18px;
+    height: 18px;
+    accent-color: var(--accent);
+  }
 }
 
 .chips {
@@ -274,6 +296,62 @@ button.ghost {
     &:focus-visible {
       outline: 2px solid var(--accent);
       outline-offset: 1px;
+    }
+  }
+}
+
+.all-prompt {
+  justify-content: flex-start;
+}
+
+.all-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+
+  .all-row {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    align-items: center;
+    gap: 12px;
+    padding: 6px 12px;
+    border-radius: 10px;
+    border: 1px solid transparent;
+
+    .all-subject {
+      font-size: 17px;
+      font-weight: 600;
+      color: var(--text-h);
+      text-align: right;
+    }
+
+    input {
+      font: inherit;
+      font-size: 18px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      color: var(--text-h);
+
+      &:focus-visible {
+        outline: 2px solid var(--accent);
+        outline-offset: 1px;
+      }
+    }
+
+    .all-correct {
+      font-size: 18px;
+      font-weight: 600;
+      color: #22c55e;
+    }
+
+    &.wrong {
+      background: rgba(239, 68, 68, 0.1);
+      border-color: rgba(239, 68, 68, 0.4);
+    }
+    &.correct {
+      background: rgba(34, 197, 94, 0.08);
     }
   }
 }
