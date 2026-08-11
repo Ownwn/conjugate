@@ -1,0 +1,455 @@
+hablar. present. hablo. hablas. habla. hablamos. habláis. hablan. to speak. regular
+hablar. preterite. hablé. hablaste. habló. hablamos. hablasteis. hablaron. to speak. regular
+hablar. imperfect. hablaba. hablabas. hablaba. hablábamos. hablabais. hablaban. to speak. regular
+hablar. present perfect. he hablado. has hablado. ha hablado. hemos hablado. habéis hablado. han hablado. to speak. regular
+hablar. present progressive. estoy hablando. estás hablando. está hablando. estamos hablando. estáis hablando. están hablando. to speak. regular
+
+comer. present. como. comes. come. comemos. coméis. comen. to eat. regular
+comer. preterite. comí. comiste. comió. comimos. comisteis. comieron. to eat. regular
+comer. imperfect. comía. comías. comía. comíamos. comíais. comían. to eat. regular
+comer. present perfect. he comido. has comido. ha comido. hemos comido. habéis comido. han comido. to eat. regular
+comer. present progressive. estoy comiendo. estás comiendo. está comiendo. estamos comiendo. estáis comiendo. están comiendo. to eat. regular
+
+vivir. present. vivo. vives. vive. vivimos. vivís. viven. to live. regular
+vivir. preterite. viví. viviste. vivió. vivimos. vivisteis. vivieron. to live. regular
+vivir. imperfect. vivía. vivías. vivía. vivíamos. vivíais. vivían. to live. regular
+vivir. present perfect. he vivido. has vivido. ha vivido. hemos vivido. habéis vivido. han vivido. to live. regular
+vivir. present progressive. estoy viviendo. estás viviendo. está viviendo. estamos viviendo. estáis viviendo. están viviendo. to live. regular
+
+trabajar. present. trabajo. trabajas. trabaja. trabajamos. trabajáis. trabajan. to work. regular
+trabajar. preterite. trabajé. trabajaste. trabajó. trabajamos. trabajasteis. trabajaron. to work. regular
+trabajar. imperfect. trabajaba. trabajabas. trabajaba. trabajábamos. trabajabais. trabajaban. to work. regular
+trabajar. present perfect. he trabajado. has trabajado. ha trabajado. hemos trabajado. habéis trabajado. han trabajado. to work. regular
+trabajar. present progressive. estoy trabajando. estás trabajando. está trabajando. estamos trabajando. estáis trabajando. están trabajando. to work. regular
+
+estudiar. present. estudio. estudias. estudia. estudiamos. estudiáis. estudian. to study. regular
+estudiar. preterite. estudié. estudiaste. estudió. estudiamos. estudiasteis. estudiaron. to study. regular
+estudiar. imperfect. estudiaba. estudiabas. estudiaba. estudiábamos. estudiabais. estudiaban. to study. regular
+estudiar. present perfect. he estudiado. has estudiado. ha estudiado. hemos estudiado. habéis estudiado. han estudiado. to study. regular
+estudiar. present progressive. estoy estudiando. estás estudiando. está estudiando. estamos estudiando. estáis estudiando. están estudiando. to study. regular
+
+necesitar. present. necesito. necesitas. necesita. necesitamos. necesitáis. necesitan. to need. regular
+necesitar. preterite. necesité. necesitaste. necesitó. necesitamos. necesitasteis. necesitaron. to need. regular
+necesitar. imperfect. necesitaba. necesitabas. necesitaba. necesitábamos. necesitabais. necesitaban. to need. regular
+necesitar. present perfect. he necesitado. has necesitado. ha necesitado. hemos necesitado. habéis necesitado. han necesitado. to need. regular
+necesitar. present progressive. estoy necesitando. estás necesitando. está necesitando. estamos necesitando. estáis necesitando. están necesitando. to need. regular
+
+escuchar. present. escucho. escuchas. escucha. escuchamos. escucháis. escuchan. to listen. regular
+escuchar. preterite. escuché. escuchaste. escuchó. escuchamos. escuchasteis. escucharon. to listen. regular
+escuchar. imperfect. escuchaba. escuchabas. escuchaba. escuchábamos. escuchabais. escuchaban. to listen. regular
+escuchar. present perfect. he escuchado. has escuchado. ha escuchado. hemos escuchado. habéis escuchado. han escuchado. to listen. regular
+escuchar. present progressive. estoy escuchando. estás escuchando. está escuchando. estamos escuchando. estáis escuchando. están escuchando. to listen. regular
+
+mirar. present. miro. miras. mira. miramos. miráis. miran. to look/watch. regular
+mirar. preterite. miré. miraste. miró. miramos. mirasteis. miraron. to look/watch. regular
+mirar. imperfect. miraba. mirabas. miraba. mirábamos. mirabais. miraban. to look/watch. regular
+mirar. present perfect. he mirado. has mirado. ha mirado. hemos mirado. habéis mirado. han mirado. to look/watch. regular
+mirar. present progressive. estoy mirando. estás mirando. está mirando. estamos mirando. estáis mirando. están mirando. to look/watch. regular
+
+comprar. present. compro. compras. compra. compramos. compráis. compran. to buy. regular
+comprar. preterite. compré. compraste. compró. compramos. comprasteis. compraron. to buy. regular
+comprar. imperfect. compraba. comprabas. compraba. comprábamos. comprabais. compraban. to buy. regular
+comprar. present perfect. he comprado. has comprado. ha comprado. hemos comprado. habéis comprado. han comprado. to buy. regular
+comprar. present progressive. estoy comprando. estás comprando. está comprando. estamos comprando. estáis comprando. están comprando. to buy. regular
+
+vender. present. vendo. vendes. vende. vendemos. vendéis. venden. to sell. regular
+vender. preterite. vendí. vendiste. vendió. vendimos. vendisteis. vendieron. to sell. regular
+vender. imperfect. vendía. vendías. vendía. vendíamos. vendíais. vendían. to sell. regular
+vender. present perfect. he vendido. has vendido. ha vendido. hemos vendido. habéis vendido. han vendido. to sell. regular
+vender. present progressive. estoy vendiendo. estás vendiendo. está vendiendo. estamos vendiendo. estáis vendiendo. están vendiendo. to sell. regular
+
+abrir. present. abro. abres. abre. abrimos. abrís. abren. to open. regular
+abrir. preterite. abrí. abriste. abrió. abrimos. abristeis. abrieron. to open. regular
+abrir. imperfect. abría. abrías. abría. abríamos. abríais. abrían. to open. regular
+abrir. present perfect. he abierto. has abierto. ha abierto. hemos abierto. habéis abierto. han abierto. to open. irregular
+abrir. present progressive. estoy abriendo. estás abriendo. está abriendo. estamos abriendo. estáis abriendo. están abriendo. to open. regular
+
+cerrar. present. cierro. cierras. cierra. cerramos. cerráis. cierran. to close. stem-changing
+cerrar. preterite. cerré. cerraste. cerró. cerramos. cerrasteis. cerraron. to close. stem-changing
+cerrar. imperfect. cerraba. cerrabas. cerraba. cerrábamos. cerrabais. cerraban. to close. stem-changing
+cerrar. present perfect. he cerrado. has cerrado. ha cerrado. hemos cerrado. habéis cerrado. han cerrado. to close. stem-changing
+cerrar. present progressive. estoy cerrando. estás cerrando. está cerrando. estamos cerrando. estáis cerrando. están cerrando. to close. stem-changing
+
+pensar. present. pienso. piensas. piensa. pensamos. pensáis. piensan. to think. stem-changing
+pensar. preterite. pensé. pensaste. pensó. pensamos. pensasteis. pensaron. to think. stem-changing
+pensar. imperfect. pensaba. pensabas. pensaba. pensábamos. pensabais. pensaban. to think. stem-changing
+pensar. present perfect. he pensado. has pensado. ha pensado. hemos pensado. habéis pensado. han pensado. to think. stem-changing
+pensar. present progressive. estoy pensando. estás pensando. está pensando. estamos pensando. estáis pensando. están pensando. to think. stem-changing
+
+entender. present. entiendo. entiendes. entiende. entendemos. entendéis. entienden. to understand. stem-changing
+entender. preterite. entendí. entendiste. entendió. entendimos. entendisteis. entendieron. to understand. stem-changing
+entender. imperfect. entendía. entendías. entendía. entendíamos. entendíais. entendían. to understand. stem-changing
+entender. present perfect. he entendido. has entendido. ha entendido. hemos entendido. habéis entendido. han entendido. to understand. stem-changing
+entender. present progressive. estoy entendiendo. estás entendiendo. está entendiendo. estamos entendiendo. estáis entendiendo. están entendiendo. to understand. stem-changing
+
+querer. present. quiero. quieres. quiere. queremos. queréis. quieren. to want/love. stem-changing
+querer. preterite. quise. quisiste. quiso. quisimos. quisisteis. quisieron. to want/love. irregular
+querer. imperfect. quería. querías. quería. queríamos. queríais. querían. to want/love. stem-changing
+querer. present perfect. he querido. has querido. ha querido. hemos querido. habéis querido. han querido. to want/love. stem-changing
+querer. present progressive. estoy queriendo. estás queriendo. está queriendo. estamos queriendo. estáis queriendo. están queriendo. to want/love. stem-changing
+
+poder. present. puedo. puedes. puede. podemos. podéis. pueden. to be able to. stem-changing
+poder. preterite. pude. pudiste. pudo. pudimos. pudisteis. pudieron. to be able to. irregular
+poder. imperfect. podía. podías. podía. podíamos. podíais. podían. to be able to. stem-changing
+poder. present perfect. he podido. has podido. ha podido. hemos podido. habéis podido. han podido. to be able to. stem-changing
+poder. present progressive. estoy pudiendo. estás pudiendo. está pudiendo. estamos pudiendo. estáis pudiendo. están pudiendo. to be able to. stem-changing
+
+deber. present. debo. debes. debe. debemos. debéis. deben. to owe/should. regular
+deber. preterite. debí. debiste. debió. debimos. debisteis. debieron. to owe/should. regular
+deber. imperfect. debía. debías. debía. debíamos. debíais. debían. to owe/should. regular
+deber. present perfect. he debido. has debido. ha debido. hemos debido. habéis debido. han debido. to owe/should. regular
+deber. present progressive. estoy debiendo. estás debiendo. está debiendo. estamos debiendo. estáis debiendo. están debiendo. to owe/should. regular
+
+decir. present. digo. dices. dice. decimos. decís. dicen. to say/tell. irregular
+decir. preterite. dije. dijiste. dijo. dijimos. dijisteis. dijeron. to say/tell. irregular
+decir. imperfect. decía. decías. decía. decíamos. decíais. decían. to say/tell. irregular
+decir. present perfect. he dicho. has dicho. ha dicho. hemos dicho. habéis dicho. han dicho. to say/tell. irregular
+decir. present progressive. estoy diciendo. estás diciendo. está diciendo. estamos diciendo. estáis diciendo. están diciendo. to say/tell. irregular
+
+hacer. present. hago. haces. hace. hacemos. hacéis. hacen. to do/make. irregular
+hacer. preterite. hice. hiciste. hizo. hicimos. hicisteis. hicieron. to do/make. irregular
+hacer. imperfect. hacía. hacías. hacía. hacíamos. hacíais. hacían. to do/make. irregular
+hacer. present perfect. he hecho. has hecho. ha hecho. hemos hecho. habéis hecho. han hecho. to do/make. irregular
+hacer. present progressive. estoy haciendo. estás haciendo. está haciendo. estamos haciendo. estáis haciendo. están haciendo. to do/make. irregular
+
+tener. present. tengo. tienes. tiene. tenemos. tenéis. tienen. to have. irregular
+tener. preterite. tuve. tuviste. tuvo. tuvimos. tuvisteis. tuvieron. to have. irregular
+tener. imperfect. tenía. tenías. tenía. teníamos. teníais. tenían. to have. irregular
+tener. present perfect. he tenido. has tenido. ha tenido. hemos tenido. habéis tenido. han tenido. to have. irregular
+tener. present progressive. estoy teniendo. estás teniendo. está teniendo. estamos teniendo. estáis teniendo. están teniendo. to have. irregular
+
+venir. present. vengo. vienes. viene. venimos. venís. vienen. to come. irregular
+venir. preterite. vine. viniste. vino. vinimos. vinisteis. vinieron. to come. irregular
+venir. imperfect. venía. venías. venía. veníamos. veníais. venían. to come. irregular
+venir. present perfect. he venido. has venido. ha venido. hemos venido. habéis venido. han venido. to come. irregular
+venir. present progressive. estoy viniendo. estás viniendo. está viniendo. estamos viniendo. estáis viniendo. están viniendo. to come. irregular
+
+poner. present. pongo. pones. pone. ponemos. ponéis. ponen. to put. irregular
+poner. preterite. puse. pusiste. puso. pusimos. pusisteis. pusieron. to put. irregular
+poner. imperfect. ponía. ponías. ponía. poníamos. poníais. ponían. to put. irregular
+poner. present perfect. he puesto. has puesto. ha puesto. hemos puesto. habéis puesto. han puesto. to put. irregular
+poner. present progressive. estoy poniendo. estás poniendo. está poniendo. estamos poniendo. estáis poniendo. están poniendo. to put. irregular
+
+salir. present. salgo. sales. sale. salimos. salís. salen. to leave/go out. irregular
+salir. preterite. salí. saliste. salió. salimos. salisteis. salieron. to leave/go out. irregular
+salir. imperfect. salía. salías. salía. salíamos. salíais. salían. to leave/go out. irregular
+salir. present perfect. he salido. has salido. ha salido. hemos salido. habéis salido. han salido. to leave/go out. irregular
+salir. present progressive. estoy saliendo. estás saliendo. está saliendo. estamos saliendo. estáis saliendo. están saliendo. to leave/go out. irregular
+
+saber. present. sé. sabes. sabe. sabemos. sabéis. saben. to know. irregular
+saber. preterite. supe. supiste. supo. supimos. supisteis. supieron. to know. irregular
+saber. imperfect. sabía. sabías. sabía. sabíamos. sabíais. sabían. to know. irregular
+saber. present perfect. he sabido. has sabido. ha sabido. hemos sabido. habéis sabido. han sabido. to know. irregular
+saber. present progressive. estoy sabiendo. estás sabiendo. está sabiendo. estamos sabiendo. estáis sabiendo. están sabiendo. to know. irregular
+
+ver. present. veo. ves. ve. vemos. veis. ven. to see. irregular
+ver. preterite. vi. viste. vio. vimos. visteis. vieron. to see. irregular
+ver. imperfect. veía. veías. veía. veíamos. veíais. veían. to see. irregular
+ver. present perfect. he visto. has visto. ha visto. hemos visto. habéis visto. han visto. to see. irregular
+ver. present progressive. estoy viendo. estás viendo. está viendo. estamos viendo. estáis viendo. están viendo. to see. irregular
+
+dar. present. doy. das. da. damos. dais. dan. to give. irregular
+dar. preterite. di. diste. dio. dimos. disteis. dieron. to give. irregular
+dar. imperfect. daba. dabas. daba. dábamos. dabais. daban. to give. irregular
+dar. present perfect. he dado. has dado. ha dado. hemos dado. habéis dado. han dado. to give. irregular
+dar. present progressive. estoy dando. estás dando. está dando. estamos dando. estáis dando. están dando. to give. irregular
+
+ir. present. voy. vas. va. vamos. vais. van. to go. irregular
+ir. preterite. fui. fuiste. fue. fuimos. fuisteis. fueron. to go. irregular
+ir. imperfect. iba. ibas. iba. íbamos. ibais. iban. to go. irregular
+ir. present perfect. he ido. has ido. ha ido. hemos ido. habéis ido. han ido. to go. irregular
+ir. present progressive. estoy yendo. estás yendo. está yendo. estamos yendo. estáis yendo. están yendo. to go. irregular
+
+ser. present. soy. eres. es. somos. sois. son. to be. irregular
+ser. preterite. fui. fuiste. fue. fuimos. fuisteis. fueron. to be. irregular
+ser. imperfect. era. eras. era. éramos. erais. eran. to be. irregular
+ser. present perfect. he sido. has sido. ha sido. hemos sido. habéis sido. han sido. to be. irregular
+ser. present progressive. estoy siendo. estás siendo. está siendo. estamos siendo. estáis siendo. están siendo. to be. irregular
+
+estar. present. estoy. estás. está. estamos. estáis. están. to be. irregular
+estar. preterite. estuve. estuviste. estuvo. estuvimos. estuvisteis. estuvieron. to be. irregular
+estar. imperfect. estaba. estabas. estaba. estábamos. estabais. estaban. to be. irregular
+estar. present perfect. he estado. has estado. ha estado. hemos estado. habéis estado. han estado. to be. irregular
+estar. present progressive. estoy estando. estás estando. está estando. estamos estando. estáis estando. están estando. to be. irregular
+
+dormir. present. duermo. duermes. duerme. dormimos. dormís. duermen. to sleep. stem-changing
+dormir. preterite. dormí. dormiste. durmió. dormimos. dormisteis. durmieron. to sleep. stem-changing
+dormir. imperfect. dormía. dormías. dormía. dormíamos. dormíais. dormían. to sleep. stem-changing
+dormir. present perfect. he dormido. has dormido. ha dormido. hemos dormido. habéis dormido. han dormido. to sleep. stem-changing
+dormir. present progressive. estoy durmiendo. estás durmiendo. está durmiendo. estamos durmiendo. estáis durmiendo. están durmiendo. to sleep. stem-changing
+
+pedir. present. pido. pides. pide. pedimos. pedís. piden. to ask for/order. stem-changing
+pedir. preterite. pedí. pediste. pidió. pedimos. pedisteis. pidieron. to ask for/order. stem-changing
+pedir. imperfect. pedía. pedías. pedía. pedíamos. pedíais. pedían. to ask for/order. stem-changing
+pedir. present perfect. he pedido. has pedido. ha pedido. hemos pedido. habéis pedido. han pedido. to ask for/order. stem-changing
+pedir. present progressive. estoy pidiendo. estás pidiendo. está pidiendo. estamos pidiendo. estáis pidiendo. están pidiendo. to ask for/order. stem-changing
+
+servir. present. sirvo. sirves. sirve. servimos. servís. sirven. to serve. stem-changing
+servir. preterite. serví. serviste. sirvió. servimos. servisteis. sirvieron. to serve. stem-changing
+servir. imperfect. servía. servías. servía. servíamos. servíais. servían. to serve. stem-changing
+servir. present perfect. he servido. has servido. ha servido. hemos servido. habéis servido. han servido. to serve. stem-changing
+servir. present progressive. estoy sirviendo. estás sirviendo. está sirviendo. estamos sirviendo. estáis sirviendo. están sirviendo. to serve. stem-changing
+
+repetir. present. repito. repites. repite. repetimos. repetís. repiten. to repeat. stem-changing
+repetir. preterite. repetí. repetiste. repitió. repetimos. repetisteis. repitieron. to repeat. stem-changing
+repetir. imperfect. repetía. repetías. repetía. repetíamos. repetíais. repetían. to repeat. stem-changing
+repetir. present perfect. he repetido. has repetido. ha repetido. hemos repetido. habéis repetido. han repetido. to repeat. stem-changing
+repetir. present progressive. estoy repitiendo. estás repitiendo. está repitiendo. estamos repitiendo. estáis repitiendo. están repitiendo. to repeat. stem-changing
+
+seguir. present. sigo. sigues. sigue. seguimos. seguís. siguen. to follow/continue. stem-changing
+seguir. preterite. seguí. seguiste. siguió. seguimos. seguisteis. siguieron. to follow/continue. stem-changing
+seguir. imperfect. seguía. seguías. seguía. seguíamos. seguíais. seguían. to follow/continue. stem-changing
+seguir. present perfect. he seguido. has seguido. ha seguido. hemos seguido. habéis seguido. han seguido. to follow/continue. stem-changing
+seguir. present progressive. estoy siguiendo. estás siguiendo. está siguiendo. estamos siguiendo. estáis siguiendo. están siguiendo. to follow/continue. stem-changing
+
+conocer. present. conozco. conoces. conoce. conocemos. conocéis. conocen. to know/meet. irregular
+conocer. preterite. conocí. conociste. conoció. conocimos. conocisteis. conocieron. to know/meet. irregular
+conocer. imperfect. conocía. conocías. conocía. conocíamos. conocíais. conocían. to know/meet. irregular
+conocer. present perfect. he conocido. has conocido. ha conocido. hemos conocido. habéis conocido. han conocido. to know/meet. irregular
+conocer. present progressive. estoy conociendo. estás conociendo. está conociendo. estamos conociendo. estáis conociendo. están conociendo. to know/meet. irregular
+
+conducir. present. conduzco. conduces. conduce. conducimos. conducís. conducen. to drive. irregular
+conducir. preterite. conduje. condujiste. condujo. condujimos. condujisteis. condujeron. to drive. irregular
+conducir. imperfect. conducía. conducías. conducía. conducíamos. conducíais. conducían. to drive. irregular
+conducir. present perfect. he conducido. has conducido. ha conducido. hemos conducido. habéis conducido. han conducido. to drive. irregular
+conducir. present progressive. estoy conduciendo. estás conduciendo. está conduciendo. estamos conduciendo. estáis conduciendo. están conduciendo. to drive. irregular
+
+traer. present. traigo. traes. trae. traemos. traéis. traen. to bring. irregular
+traer. preterite. traje. trajiste. trajo. trajimos. trajisteis. trajeron. to bring. irregular
+traer. imperfect. traía. traías. traía. traíamos. traíais. traían. to bring. irregular
+traer. present perfect. he traído. has traído. ha traído. hemos traído. habéis traído. han traído. to bring. irregular
+traer. present progressive. estoy trayendo. estás trayendo. está trayendo. estamos trayendo. estáis trayendo. están trayendo. to bring. irregular
+
+caer. present. caigo. caes. cae. caemos. caéis. caen. to fall. irregular
+caer. preterite. caí. caíste. cayó. caímos. caísteis. cayeron. to fall. irregular
+caer. imperfect. caía. caías. caía. caíamos. caíais. caían. to fall. irregular
+caer. present perfect. he caído. has caído. ha caído. hemos caído. habéis caído. han caído. to fall. irregular
+caer. present progressive. estoy cayendo. estás cayendo. está cayendo. estamos cayendo. estáis cayendo. están cayendo. to fall. irregular
+
+creer. present. creo. crees. cree. creemos. creéis. creen. to believe. regular
+creer. preterite. creí. creíste. creyó. creímos. creísteis. creyeron. to believe. regular
+creer. imperfect. creía. creías. creía. creíamos. creíais. creían. to believe. regular
+creer. present perfect. he creído. has creído. ha creído. hemos creído. habéis creído. han creído. to believe. regular
+creer. present progressive. estoy creyendo. estás creyendo. está creyendo. estamos creyendo. estáis creyendo. están creyendo. to believe. regular
+
+leer. present. leo. lees. lee. leemos. leéis. leen. to read. regular
+leer. preterite. leí. leíste. leyó. leímos. leísteis. leyeron. to read. regular
+leer. imperfect. leía. leías. leía. leíamos. leíais. leían. to read. regular
+leer. present perfect. he leído. has leído. ha leído. hemos leído. habéis leído. han leído. to read. regular
+leer. present progressive. estoy leyendo. estás leyendo. está leyendo. estamos leyendo. estáis leyendo. están leyendo. to read. regular
+
+escribir. present. escribo. escribes. escribe. escribimos. escribís. escriben. to write. regular
+escribir. preterite. escribí. escribiste. escribió. escribimos. escribisteis. escribieron. to write. regular
+escribir. imperfect. escribía. escribías. escribía. escribíamos. escribíais. escribían. to write. regular
+escribir. present perfect. he escrito. has escrito. ha escrito. hemos escrito. habéis escrito. han escrito. to write. irregular
+escribir. present progressive. estoy escribiendo. estás escribiendo. está escribiendo. estamos escribiendo. estáis escribiendo. están escribiendo. to write. regular
+
+beber. present. bebo. bebes. bebe. bebemos. bebéis. beben. to drink. regular
+beber. preterite. bebí. bebiste. bebió. bebimos. bebisteis. bebieron. to drink. regular
+beber. imperfect. bebía. bebías. bebía. bebíamos. bebíais. bebían. to drink. regular
+beber. present perfect. he bebido. has bebido. ha bebido. hemos bebido. habéis bebido. han bebido. to drink. regular
+beber. present progressive. estoy bebiendo. estás bebiendo. está bebiendo. estamos bebiendo. estáis bebiendo. están bebiendo. to drink. regular
+
+aprender. present. aprendo. aprendes. aprende. aprendemos. aprendéis. aprenden. to learn. regular
+aprender. preterite. aprendí. aprendiste. aprendió. aprendimos. aprendisteis. aprendieron. to learn. regular
+aprender. imperfect. aprendía. aprendías. aprendía. aprendíamos. aprendíais. aprendían. to learn. regular
+aprender. present perfect. he aprendido. has aprendido. ha aprendido. hemos aprendido. habéis aprendido. han aprendido. to learn. regular
+aprender. present progressive. estoy aprendiendo. estás aprendiendo. está aprendiendo. estamos aprendiendo. estáis aprendiendo. están aprendiendo. to learn. regular
+
+correr. present. corro. corres. corre. corremos. corréis. corren. to run. regular
+correr. preterite. corrí. corriste. corrió. corrimos. corristeis. corrieron. to run. regular
+correr. imperfect. corría. corrías. corría. corríamos. corríais. corrían. to run. regular
+correr. present perfect. he corrido. has corrido. ha corrido. hemos corrido. habéis corrido. han corrido. to run. regular
+correr. present progressive. estoy corriendo. estás corriendo. está corriendo. estamos corriendo. estáis corriendo. están corriendo. to run. regular
+
+beber. present. bebo. bebes. bebe. bebemos. bebéis. beben. to drink. regular
+beber. preterite. bebí. bebiste. bebió. bebimos. bebisteis. bebieron. to drink. regular
+beber. imperfect. bebía. bebías. bebía. bebíamos. bebíais. bebían. to drink. regular
+beber. present perfect. he bebido. has bebido. ha bebido. hemos bebido. habéis bebido. han bebido. to drink. regular
+beber. present progressive. estoy bebiendo. estás bebiendo. está bebiendo. estamos bebiendo. estáis bebiendo. están bebiendo. to drink. regular
+
+decidir. present. decido. decides. decide. decidimos. decidís. deciden. to decide. regular
+decidir. preterite. decidí. decidiste. decidió. decidimos. decidisteis. decidieron. to decide. regular
+decidir. imperfect. decidía. decidías. decidía. decidíamos. decidíais. decidían. to decide. regular
+decidir. present perfect. he decidido. has decidido. ha decidido. hemos decidido. habéis decidido. han decidido. to decide. regular
+decidir. present progressive. estoy decidiendo. estás decidiendo. está decidiendo. estamos decidiendo. estáis decidiendo. están decidiendo. to decide. regular
+
+recibir. present. recibo. recibes. recibe. recibimos. recibís. reciben. to receive. regular
+recibir. preterite. recibí. recibiste. recibió. recibimos. recibisteis. recibieron. to receive. regular
+recibir. imperfect. recibía. recibías. recibía. recibíamos. recibíais. recibían. to receive. regular
+recibir. present perfect. he recibido. has recibido. ha recibido. hemos recibido. habéis recibido. han recibido. to receive. regular
+recibir. present progressive. estoy recibiendo. estás recibiendo. está recibiendo. estamos recibiendo. estáis recibiendo. están recibiendo. to receive. regular
+
+escribir. present. escribo. escribes. escribe. escribimos. escribís. escriben. to write. regular
+escribir. preterite. escribí. escribiste. escribió. escribimos. escribisteis. escribieron. to write. regular
+escribir. imperfect. escribía. escribías. escribía. escribíamos. escribíais. escribían. to write. regular
+escribir. present perfect. he escrito. has escrito. ha escrito. hemos escrito. habéis escrito. han escrito. to write. irregular
+escribir. present progressive. estoy escribiendo. estás escribiendo. está escribiendo. estamos escribiendo. estáis escribiendo. están escribiendo. to write. regular
+
+llegar. present. llego. llegas. llega. llegamos. llegáis. llegan. to arrive. regular
+llegar. preterite. llegué. llegaste. llegó. llegamos. llegasteis. llegaron. to arrive. regular
+llegar. imperfect. llegaba. llegabas. llegaba. llegábamos. llegabais. llegaban. to arrive. regular
+llegar. present perfect. he llegado. has llegado. ha llegado. hemos llegado. habéis llegado. han llegado. to arrive. regular
+llegar. present progressive. estoy llegando. estás llegando. está llegando. estamos llegando. estáis llegando. están llegando. to arrive. regular
+
+empezar. present. empiezo. empiezas. empieza. empezamos. empezáis. empiezan. to begin. stem-changing
+empezar. preterite. empecé. empezaste. empezó. empezamos. empezasteis. empezaron. to begin. stem-changing
+empezar. imperfect. empezaba. empezabas. empezaba. empezábamos. empezabais. empezaban. to begin. stem-changing
+empezar. present perfect. he empezado. has empezado. ha empezado. hemos empezado. habéis empezado. han empezado. to begin. stem-changing
+empezar. present progressive. estoy empezando. estás empezando. está empezando. estamos empezando. estáis empezando. están empezando. to begin. stem-changing
+
+comenzar. present. comienzo. comienzas. comienza. comenzamos. comenzáis. comienzan. to begin. stem-changing
+comenzar. preterite. comencé. comenzaste. comenzó. comenzamos. comenzasteis. comenzaron. to begin. stem-changing
+comenzar. imperfect. comenzaba. comenzabas. comenzaba. comenzábamos. comenzabais. comenzaban. to begin. stem-changing
+comenzar. present perfect. he comenzado. has comenzado. ha comenzado. hemos comenzado. habéis comenzado. han comenzado. to begin. stem-changing
+comenzar. present progressive. estoy comenzando. estás comenzando. está comenzando. estamos comenzando. estáis comenzando. están comenzando. to begin. stem-changing
+
+volver. present. vuelvo. vuelves. vuelve. volvemos. volvéis. vuelven. to return. stem-changing
+volver. preterite. volví. volviste. volvió. volvimos. volvisteis. volvieron. to return. stem-changing
+volver. imperfect. volvía. volvías. volvía. volvíamos. volvíais. volvían. to return. stem-changing
+volver. present perfect. he vuelto. has vuelto. ha vuelto. hemos vuelto. habéis vuelto. han vuelto. to return. stem-changing
+volver. present progressive. estoy volviendo. estás volviendo. está volviendo. estamos volviendo. estáis volviendo. están volviendo. to return. stem-changing
+
+encontrar. present. encuentro. encuentras. encuentra. encontramos. encontráis. encuentran. to find. stem-changing
+encontrar. preterite. encontré. encontraste. encontró. encontramos. encontrasteis. encontraron. to find. stem-changing
+encontrar. imperfect. encontraba. encontrabas. encontraba. encontrábamos. encontrabais. encontraban. to find. stem-changing
+encontrar. present perfect. he encontrado. has encontrado. ha encontrado. hemos encontrado. habéis encontrado. han encontrado. to find. stem-changing
+encontrar. present progressive. estoy encontrando. estás encontrando. está encontrando. estamos encontrando. estáis encontrando. están encontrando. to find. stem-changing
+
+mostrar. present. muestro. muestras. muestra. mostramos. mostráis. muestran. to show. stem-changing
+mostrar. preterite. mostré. mostraste. mostró. mostramos. mostrasteis. mostraron. to show. stem-changing
+mostrar. imperfect. mostraba. mostrabas. mostraba. mostrábamos. mostrabais. mostraban. to show. stem-changing
+mostrar. present perfect. he mostrado. has mostrado. ha mostrado. hemos mostrado. habéis mostrado. han mostrado. to show. stem-changing
+mostrar. present progressive. estoy mostrando. estás mostrando. está mostrando. estamos mostrando. estáis mostrando. están mostrando. to show. stem-changing
+
+contar. present. cuento. cuentas. cuenta. contamos. contáis. cuentan. to count/tell. stem-changing
+contar. preterite. conté. contaste. contó. contamos. contasteis. contaron. to count/tell. stem-changing
+contar. imperfect. contaba. contabas. contaba. contábamos. contabais. contaban. to count/tell. stem-changing
+contar. present perfect. he contado. has contado. ha contado. hemos contado. habéis contado. han contado. to count/tell. stem-changing
+contar. present progressive. estoy contando. estás contando. está contando. estamos contando. estáis contando. están contando. to count/tell. stem-changing
+
+costar. present. cuesto. cuestas. cuesta. costamos. costáis. cuestan. to cost. stem-changing
+costar. preterite. costé. costaste. costó. costamos. costasteis. costaron. to cost. stem-changing
+costar. imperfect. costaba. costabas. costaba. costábamos. costabais. costaban. to cost. stem-changing
+costar. present perfect. he costado. has costado. ha costado. hemos costado. habéis costado. han costado. to cost. stem-changing
+costar. present progressive. estoy costando. estás costando. está costando. estamos costando. estáis costando. están costando. to cost. stem-changing
+
+jugar. present. juego. juegas. juega. jugamos. jugáis. juegan. to play. stem-changing
+jugar. preterite. jugué. jugaste. jugó. jugamos. jugasteis. jugaron. to play. stem-changing
+jugar. imperfect. jugaba. jugabas. jugaba. jugábamos. jugabais. jugaban. to play. stem-changing
+jugar. present perfect. he jugado. has jugado. ha jugado. hemos jugado. habéis jugado. han jugado. to play. stem-changing
+jugar. present progressive. estoy jugando. estás jugando. está jugando. estamos jugando. estáis jugando. están jugando. to play. stem-changing
+
+pedir. present. pido. pides. pide. pedimos. pedís. piden. to request/ask for. stem-changing
+pedir. preterite. pedí. pediste. pidió. pedimos. pedisteis. pidieron. to request/ask for. stem-changing
+pedir. imperfect. pedía. pedías. pedía. pedíamos. pedíais. pedían. to request/ask for. stem-changing
+pedir. present perfect. he pedido. has pedido. ha pedido. hemos pedido. habéis pedido. han pedido. to request/ask for. stem-changing
+pedir. present progressive. estoy pidiendo. estás pidiendo. está pidiendo. estamos pidiendo. estáis pidiendo. están pidiendo. to request/ask for. stem-changing
+
+sentir. present. siento. sientes. siente. sentimos. sentís. sienten. to feel. stem-changing
+sentir. preterite. sentí. sentiste. sintió. sentimos. sentisteis. sintieron. to feel. stem-changing
+sentir. imperfect. sentía. sentías. sentía. sentíamos. sentíais. sentían. to feel. stem-changing
+sentir. present perfect. he sentido. has sentido. ha sentido. hemos sentido. habéis sentido. han sentido. to feel. stem-changing
+sentir. present progressive. estoy sintiendo. estás sintiendo. está sintiendo. estamos sintiendo. estáis sintiendo. están sintiendo. to feel. stem-changing
+
+preferir. present. prefiero. prefieres. prefiere. preferimos. preferís. prefieren. to prefer. stem-changing
+preferir. preterite. preferí. preferiste. prefirió. preferimos. preferisteis. prefirieron. to prefer. stem-changing
+preferir. imperfect. prefería. preferías. prefería. preferíamos. preferíais. preferían. to prefer. stem-changing
+preferir. present perfect. he preferido. has preferido. ha preferido. hemos preferido. habéis preferido. han preferido. to prefer. stem-changing
+preferir. present progressive. estoy prefiriendo. estás prefiriendo. está prefiriendo. estamos prefiriendo. estáis prefiriendo. están prefiriendo. to prefer. stem-changing
+
+morir. present. muero. mueres. muere. morimos. morís. mueren. to die. stem-changing
+morir. preterite. morí. moriste. murió. morimos. moristeis. murieron. to die. stem-changing
+morir. imperfect. moría. morías. moría. moríamos. moríais. morían. to die. stem-changing
+morir. present perfect. he muerto. has muerto. ha muerto. hemos muerto. habéis muerto. han muerto. to die. stem-changing
+morir. present progressive. estoy muriendo. estás muriendo. está muriendo. estamos muriendo. estáis muriendo. están muriendo. to die. stem-changing
+
+reír. present. río. ríes. ríe. reímos. reís. ríen. to laugh. stem-changing
+reír. preterite. reí. reíste. rio. reímos. reísteis. rieron. to laugh. stem-changing
+reír. imperfect. reía. reías. reía. reíamos. reíais. reían. to laugh. stem-changing
+reír. present perfect. he reído. has reído. ha reído. hemos reído. habéis reído. han reído. to laugh. stem-changing
+reír. present progressive. estoy riendo. estás riendo. está riendo. estamos riendo. estáis riendo. están riendo. to laugh. stem-changing
+
+vestir. present. visto. vistes. viste. vestimos. vestís. visten. to dress. stem-changing
+vestir. preterite. vestí. vestiste. vistió. vestimos. vestisteis. vistieron. to dress. stem-changing
+vestir. imperfect. vestía. vestías. vestía. vestíamos. vestíais. vestían. to dress. stem-changing
+vestir. present perfect. he vestido. has vestido. ha vestido. hemos vestido. habéis vestido. han vestido. to dress. stem-changing
+vestir. present progressive. estoy vistiendo. estás vistiendo. está vistiendo. estamos vistiendo. estáis vistiendo. están vistiendo. to dress. stem-changing
+
+acostarse. present. yo me acuesto. tú te acuestas. él/usted se acuesta. nosotros nos acostamos. vosotros os acostáis. ellos/ustedes se acuestan. to go to bed. reflexive stem-changing
+acostarse. preterite. yo me acosté. tú te acostaste. él/usted se acostó. nosotros nos acostamos. vosotros os acostasteis. ellos/ustedes se acostaron. to go to bed. reflexive stem-changing
+acostarse. imperfect. yo me acostaba. tú te acostabas. él/usted se acostaba. nosotros nos acostábamos. vosotros os acostabais. ellos/ustedes se acostaban. to go to bed. reflexive stem-changing
+acostarse. present perfect. yo me he acostado. tú te has acostado. él/usted se ha acostado. nosotros nos hemos acostado. vosotros os habéis acostado. ellos/ustedes se han acostado. to go to bed. reflexive stem-changing
+acostarse. present progressive. yo me estoy acostando. tú te estás acostando. él/usted se está acostando. nosotros nos estamos acostando. vosotros os estáis acostando. ellos/ustedes se están acostando. to go to bed. reflexive stem-changing
+
+levantarse. present. yo me levanto. tú te levantas. él/usted se levanta. nosotros nos levantamos. vosotros os levantáis. ellos/ustedes se levantan. to get up. reflexive regular
+levantarse. preterite. yo me levanté. tú te levantaste. él/usted se levantó. nosotros nos levantamos. vosotros os levantasteis. ellos/ustedes se levantaron. to get up. reflexive regular
+levantarse. imperfect. yo me levantaba. tú te levantabas. él/usted se levantaba. nosotros nos levantábamos. vosotros os levantabais. ellos/ustedes se levantaban. to get up. reflexive regular
+levantarse. present perfect. yo me he levantado. tú te has levantado. él/usted se ha levantado. nosotros nos hemos levantado. vosotros os habéis levantado. ellos/ustedes se han levantado. to get up. reflexive regular
+levantarse. present progressive. yo me estoy levantando. tú te estás levantando. él/usted se está levantando. nosotros nos estamos levantando. vosotros os estáis levantando. ellos/ustedes se están levantando. to get up. reflexive regular
+
+lavarse. present. yo me lavo. tú te lavas. él/usted se lava. nosotros nos lavamos. vosotros os laváis. ellos/ustedes se lavan. to wash oneself. reflexive regular
+lavarse. preterite. yo me lavé. tú te lavaste. él/usted se lavó. nosotros nos lavamos. vosotros os lavasteis. ellos/ustedes se lavaron. to wash oneself. reflexive regular
+lavarse. imperfect. yo me lavaba. tú te lavabas. él/usted se lavaba. nosotros nos lavábamos. vosotros os lavabais. ellos/ustedes se lavaban. to wash oneself. reflexive regular
+lavarse. present perfect. yo me he lavado. tú te has lavado. él/usted se ha lavado. nosotros nos hemos lavado. vosotros os habéis lavado. ellos/ustedes se han lavado. to wash oneself. reflexive regular
+lavarse. present progressive. yo me estoy lavando. tú te estás lavando. él/usted se está lavando. nosotros nos estamos lavando. vosotros os estáis lavando. ellos/ustedes se están lavando. to wash oneself. reflexive regular
+
+ducharse. present. yo me ducho. tú te duchas. él/usted se ducha. nosotros nos duchamos. vosotros os ducháis. ellos/ustedes se duchan. to shower. reflexive regular
+ducharse. preterite. yo me duché. tú te duchaste. él/usted se duchó. nosotros nos duchamos. vosotros os duchasteis. ellos/ustedes se ducharon. to shower. reflexive regular
+ducharse. imperfect. yo me duchaba. tú te duchabas. él/usted se duchaba. nosotros nos duchábamos. vosotros os duchabais. ellos/ustedes se duchaban. to shower. reflexive regular
+ducharse. present perfect. yo me he duchado. tú te has duchado. él/usted se ha duchado. nosotros nos hemos duchado. vosotros os habéis duchado. ellos/ustedes se han duchado. to shower. reflexive regular
+ducharse. present progressive. yo me estoy duchando. tú te estás duchando. él/usted se está duchando. nosotros nos estamos duchando. vosotros os estáis duchando. ellos/ustedes se están duchando. to shower. reflexive regular
+
+vestirse. present. yo me visto. tú te vistes. él/usted se viste. nosotros nos vestimos. vosotros os vestís. ellos/ustedes se visten. to get dressed. reflexive stem-changing
+vestirse. preterite. yo me vestí. tú te vestiste. él/usted se vistió. nosotros nos vestimos. vosotros os vestisteis. ellos/ustedes se vistieron. to get dressed. reflexive stem-changing
+vestirse. imperfect. yo me vestía. tú te vestías. él/usted se vestía. nosotros nos vestíamos. vosotros os vestíais. ellos/ustedes se vestían. to get dressed. reflexive stem-changing
+vestirse. present perfect. yo me he vestido. tú te has vestido. él/usted se ha vestido. nosotros nos hemos vestido. vosotros os habéis vestido. ellos/ustedes se han vestido. to get dressed. reflexive stem-changing
+vestirse. present progressive. yo me estoy vistiendo. tú te estás vistiendo. él/usted se está vistiendo. nosotros nos estamos vistiendo. vosotros os estáis vistiendo. ellos/ustedes se están vistiendo. to get dressed. reflexive stem-changing
+
+despertarse. present. yo me despierto. tú te despiertas. él/usted se despierta. nosotros nos despertamos. vosotros os despertáis. ellos/ustedes se despiertan. to wake up. reflexive stem-changing
+despertarse. preterite. yo me desperté. tú te despertaste. él/usted se despertó. nosotros nos despertamos. vosotros os despertasteis. ellos/ustedes se despertaron. to wake up. reflexive stem-changing
+despertarse. imperfect. yo me despertaba. tú te despertabas. él/usted se despertaba. nosotros nos despertábamos. vosotros os despertabais. ellos/ustedes se despertaban. to wake up. reflexive stem-changing
+despertarse. present perfect. yo me he despertado. tú te has despertado. él/usted se ha despertado. nosotros nos hemos despertado. vosotros os habéis despertado. ellos/ustedes se han despertado. to wake up. reflexive stem-changing
+despertarse. present progressive. yo me estoy despertando. tú te estás despertando. él/usted se está despertando. nosotros nos estamos despertando. vosotros os estáis despertando. ellos/ustedes se están despertando. to wake up. reflexive stem-changing
+
+sentarse. present. yo me siento. tú te sientas. él/usted se sienta. nosotros nos sentamos. vosotros os sentáis. ellos/ustedes se sientan. to sit down. reflexive stem-changing
+sentarse. preterite. yo me senté. tú te sentaste. él/usted se sentó. nosotros nos sentamos. vosotros os sentasteis. ellos/ustedes se sentaron. to sit down. reflexive stem-changing
+sentarse. imperfect. yo me sentaba. tú te sentabas. él/usted se sentaba. nosotros nos sentábamos. vosotros os sentabais. ellos/ustedes se sentaban. to sit down. reflexive stem-changing
+sentarse. present perfect. yo me he sentado. tú te has sentado. él/usted se ha sentado. nosotros nos hemos sentado. vosotros os habéis sentado. ellos/ustedes se han sentado. to sit down. reflexive stem-changing
+sentarse. present progressive. yo me estoy sentando. tú te estás sentando. él/usted se está sentando. nosotros nos estamos sentando. vosotros os estáis sentando. ellos/ustedes se están sentando. to sit down. reflexive stem-changing
+
+divertirse. present. yo me divierto. tú te diviertes. él/usted se divierte. nosotros nos divertimos. vosotros os divertís. ellos/ustedes se divierten. to have fun. reflexive stem-changing
+divertirse. preterite. yo me divertí. tú te divertiste. él/usted se divirtió. nosotros nos divertimos. vosotros os divertisteis. ellos/ustedes se divirtieron. to have fun. reflexive stem-changing
+divertirse. imperfect. yo me divertía. tú te divertías. él/usted se divertía. nosotros nos divertíamos. vosotros os divertíais. ellos/ustedes se divertían. to have fun. reflexive stem-changing
+divertirse. present perfect. yo me he divertido. tú te has divertido. él/usted se ha divertido. nosotros nos hemos divertido. vosotros os habéis divertido. ellos/ustedes se han divertido. to have fun. reflexive stem-changing
+divertirse. present progressive. yo me estoy divirtiendo. tú te estás divirtiendo. él/usted se está divirtiendo. nosotros nos estamos divirtiendo. vosotros os estáis divirtiendo. ellos/ustedes se están divirtiendo. to have fun. reflexive stem-changing
+
+irse. present. yo me voy. tú te vas. él/usted se va. nosotros nos vamos. vosotros os vais. ellos/ustedes se van. to leave/go away. reflexive irregular
+irse. preterite. yo me fui. tú te fuiste. él/usted se fue. nosotros nos fuimos. vosotros os fuisteis. ellos/ustedes se fueron. to leave/go away. reflexive irregular
+irse. imperfect. yo me iba. tú te ibas. él/usted se iba. nosotros nos íbamos. vosotros os ibais. ellos/ustedes se iban. to leave/go away. reflexive irregular
+irse. present perfect. yo me he ido. tú te has ido. él/usted se ha ido. nosotros nos hemos ido. vosotros os habéis ido. ellos/ustedes se han ido. to leave/go away. reflexive irregular
+irse. present progressive. yo me estoy yendo. tú te estás yendo. él/usted se está yendo. nosotros nos estamos yendo. vosotros os estáis yendo. ellos/ustedes se están yendo. to leave/go away. reflexive irregular
+
+llamarse. present. yo me llamo. tú te llamas. él/usted se llama. nosotros nos llamamos. vosotros os llamáis. ellos/ustedes se llaman. to be called. reflexive regular
+llamarse. preterite. yo me llamé. tú te llamaste. él/usted se llamó. nosotros nos llamamos. vosotros os llamasteis. ellos/ustedes se llamaron. to be called. reflexive regular
+llamarse. imperfect. yo me llamaba. tú te llamabas. él/usted se llamaba. nosotros nos llamábamos. vosotros os llamabais. ellos/ustedes se llamaban. to be called. reflexive regular
+llamarse. present perfect. yo me he llamado. tú te has llamado. él/usted se ha llamado. nosotros nos hemos llamado. vosotros os habéis llamado. ellos/ustedes se han llamado. to be called. reflexive regular
+llamarse. present progressive. yo me estoy llamando. tú te estás llamando. él/usted se está llamando. nosotros nos estamos llamando. vosotros os estáis llamando. ellos/ustedes se están llamando. to be called. reflexive regular
+
+quedarse. present. yo me quedo. tú te quedas. él/usted se queda. nosotros nos quedamos. vosotros os quedáis. ellos/ustedes se quedan. to stay. reflexive regular
+quedarse. preterite. yo me quedé. tú te quedaste. él/usted se quedó. nosotros nos quedamos. vosotros os quedasteis. ellos/ustedes se quedaron. to stay. reflexive regular
+quedarse. imperfect. yo me quedaba. tú te quedabas. él/usted se quedaba. nosotros nos quedábamos. vosotros os quedabais. ellos/ustedes se quedaban. to stay. reflexive regular
+quedarse. present perfect. yo me he quedado. tú te has quedado. él/usted se ha quedado. nosotros nos hemos quedado. vosotros os habéis quedado. ellos/ustedes se han quedado. to stay. reflexive regular
+quedarse. present progressive. yo me estoy quedando. tú te estás quedando. él/usted se está quedando. nosotros nos estamos quedando. vosotros os estáis quedando. ellos/ustedes se están quedando. to stay. reflexive regular
+
+preocuparse. present. yo me preocupo. tú te preocupas. él/usted se preocupa. nosotros nos preocupamos. vosotros os preocupáis. ellos/ustedes se preocupan. to worry. reflexive regular
+preocuparse. preterite. yo me preocupé. tú te preocupaste. él/usted se preocupó. nosotros nos preocupamos. vosotros os preocupasteis. ellos/ustedes se preocuparon. to worry. reflexive regular
+preocuparse. imperfect. yo me preocupaba. tú te preocupabas. él/usted se preocupaba. nosotros nos preocupábamos. vosotros os preocupabais. ellos/ustedes se preocupaban. to worry. reflexive regular
+preocuparse. present perfect. yo me he preocupado. tú te has preocupado. él/usted se ha preocupado. nosotros nos hemos preocupado. vosotros os habéis preocupado. ellos/ustedes se han preocupado. to worry. reflexive regular
+preocuparse. present progressive. yo me estoy preocupando. tú te estás preocupando. él/usted se está preocupando. nosotros nos estamos preocupando. vosotros os estáis preocupando. ellos/ustedes se están preocupando. to worry. reflexive regular
+
+acordarse. present. yo me acuerdo. tú te acuerdas. él/usted se acuerda. nosotros nos acordamos. vosotros os acordáis. ellos/ustedes se acuerdan. to remember. reflexive stem-changing
+acordarse. preterite. yo me acordé. tú te acordaste. él/usted se acordó. nosotros nos acordamos. vosotros os acordasteis. ellos/ustedes se acordaron. to remember. reflexive stem-changing
+acordarse. imperfect. yo me acordaba. tú te acordabas. él/usted se acordaba. nosotros nos acordábamos. vosotros os acordabais. ellos/ustedes se acordaban. to remember. reflexive stem-changing
+acordarse. present perfect. yo me he acordado. tú te has acordado. él/usted se ha acordado. nosotros nos hemos acordado. vosotros os habéis acordado. ellos/ustedes se han acordado. to remember. reflexive stem-changing
+acordarse. present progressive. yo me estoy acordando. tú te estás acordando. él/usted se está acordando. nosotros nos estamos acordando. vosotros os estáis acordando. ellos/ustedes se están acordando. to remember. reflexive stem-changing

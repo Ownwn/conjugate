@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import verbsRaw from './assets/verbs.txt?raw'
+import verbsRaw from './assets/verbs3.txt?raw'
 import './App.css'
 import {
   SUBJECTS,
@@ -87,7 +87,7 @@ function App() {
 
   const pool = useMemo(
     () =>
-      verbs.filter((v) => regularities.has(v.regularity) && v[tense].length === 6),
+      verbs.filter((v) => regularities.has(v.regularity) && v.forms[tense]?.length === 6),
     [verbs, regularities, tense],
   )
 
@@ -154,7 +154,7 @@ function App() {
 
   function submitSingle() {
     if (!question || status === 'correct') return
-    const correctAnswer = question.verb[question.tense][question.subject]
+    const correctAnswer = question.verb.forms[question.tense]![question.subject]
     const ok = isCorrect(answer, correctAnswer)
     const firstAttempt = !singleAttempted.current
 
@@ -215,7 +215,7 @@ function App() {
 
     for (let i = 0; i < 6; i++) {
       if (allStatus[i] === 'correct') continue
-      const correctAnswer = allVerb[tense][i]
+      const correctAnswer = allVerb.forms[tense]![i]
       const ok = isCorrect(allAnswers[i], correctAnswer)
       const firstAttempt = !nextAttempted[i]
       if (firstAttempt) {
@@ -401,7 +401,7 @@ function App() {
               <span className="feedback-answer">
                 {singleWrongs.current >= 2 ? (
                   <>
-                    Correct answer: <strong>{question.verb[question.tense][question.subject]}</strong>.
+                    Correct answer: <strong>{question.verb.forms[question.tense]![question.subject]}</strong>.
                     Try again!
                   </>
                 ) : (
@@ -444,7 +444,7 @@ function App() {
                     spellCheck={false}
                     value={allAnswers[i]}
                     onChange={(e) => setAllAnswer(i, e.target.value)}
-                    placeholder={allWrongs[i] >= 2 ? allVerb[tense][i] : '…'}
+                    placeholder={allWrongs[i] >= 2 ? allVerb.forms[tense]![i] : '…'}
                   />
                 )}
               </div>
