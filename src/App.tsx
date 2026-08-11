@@ -63,8 +63,6 @@ function App() {
 
   const [answered, setAnswered] = useState(0)
   const [correct, setCorrect] = useState(0)
-  const [streak, setStreak] = useState(0)
-  const [best, setBest] = useState(0)
   const [flash, setFlash] = useState<'correct' | null>(null)
 
   const [question, setQuestion] = useState<Question | null>(null)
@@ -93,6 +91,15 @@ function App() {
 
   useEffect(() => {
     setVerbs(parseVerbs(verbsRaw))
+    try {
+      const saved = localStorage.getItem('conjuga-mistakes')
+      if (saved) {
+        const obj = JSON.parse(saved) as Record<string, number>
+        for (const [k, v] of Object.entries(obj)) mistakes.current.set(k, v)
+      }
+    } catch {
+      // ignore corrupt storage
+    }
     return () => window.clearTimeout(flashTimer.current)
   }, [])
 
@@ -117,22 +124,19 @@ function App() {
       : normalize(answerText) === normalize(correctAnswer)
   }
 
-  function bumpStreak(amount: number) {
-    setStreak((s) => {
-      const n = s + amount
-      setBest((b) => Math.max(b, n))
-      return n
-    })
+  function saveMistakes() {
+    try {
+      localStorage.setItem('conjuga-mistakes', JSON.stringify(Object.fromEntries(mistakes.current)))
+    } catch {
+      // ignore storage errors
+    }
   }
 
   function start() {
-    mistakes.current.clear()
     lastInfinitive.current = null
     singleAttempted.current = false
     setAnswered(0)
     setCorrect(0)
-    setStreak(0)
-    setBest(0)
     if (mode === 'single') {
       advanceSingle()
     } else {
@@ -167,7 +171,7 @@ function App() {
     if (ok) {
       const cur = mistakes.current.get(question.verb.infinitive) ?? 0
       if (cur > 0) mistakes.current.set(question.verb.infinitive, cur - 1)
-      bumpStreak(1)
+      saveMistakes()
       setFlash('correct')
       window.clearTimeout(flashTimer.current)
       flashTimer.current = window.setTimeout(() => setFlash(null), 900)
@@ -177,8 +181,8 @@ function App() {
         question.verb.infinitive,
         (mistakes.current.get(question.verb.infinitive) ?? 0) + 1,
       )
+      saveMistakes()
       singleWrongs.current += 1
-      setStreak(0)
       setStatus('wrong')
       setAnswer('')
       inputRef.current?.focus()
@@ -209,9 +213,7 @@ function App() {
     const nextAnswers = [...allAnswers]
     const nextAttempted = [...allAttempted]
     const nextWrongs = [...allWrongs]
-    let newlyCorrect = 0
     let newlyAttempted = 0
-    let anyWrong = false
 
     for (let i = 0; i < 6; i++) {
       if (allStatus[i] === 'correct') continue
@@ -225,7 +227,6 @@ function App() {
       if (ok) {
         if (firstAttempt) {
           setCorrect((c) => c + 1)
-          newlyCorrect++
           const cur = mistakes.current.get(allVerb.infinitive) ?? 0
           if (cur > 0) mistakes.current.set(allVerb.infinitive, cur - 1)
         }
@@ -234,7 +235,6 @@ function App() {
         nextStatus[i] = 'wrong'
         nextAnswers[i] = ''
         nextWrongs[i] += 1
-        anyWrong = true
         if (firstAttempt) {
           mistakes.current.set(
             allVerb.infinitive,
@@ -245,14 +245,12 @@ function App() {
     }
 
     if (newlyAttempted > 0) setAnswered((a) => a + newlyAttempted)
+    saveMistakes()
 
     setAllStatus(nextStatus)
     setAllAnswers(nextAnswers)
     setAllAttempted(nextAttempted)
     setAllWrongs(nextWrongs)
-
-    if (newlyCorrect > 0) bumpStreak(newlyCorrect)
-    if (anyWrong) setStreak(0)
 
     if (nextStatus.every((s) => s === 'correct')) {
       setFlash('correct')
@@ -364,7 +362,7 @@ function App() {
           <button className="ghost back" onClick={() => setPhase('setup')}>
             ← Menu
           </button>
-          <QuizHeader tense={tense} answered={answered} correct={correct} streak={streak} best={best} poolSize={pool.length} />
+          <QuizHeader tense={tense} answered={answered} correct={correct} poolSize={pool.length} />
 
           <div className="prompt">
             <span className="verb-line">
@@ -397,6 +395,10 @@ function App() {
             </button>
           </form>
 
+          <button className="ghost skip" onClick={advanceSingle}>
+            Skip
+          </button>
+
           {status === 'wrong' && (
             <div className="feedback bad">
               <span className="feedback-answer">
@@ -421,7 +423,7 @@ function App() {
           <button className="ghost back" onClick={() => setPhase('setup')}>
             ← Menu
           </button>
-          <QuizHeader tense={tense} answered={answered} correct={correct} streak={streak} best={best} poolSize={pool.length} />
+          <QuizHeader tense={tense} answered={answered} correct={correct} poolSize={pool.length} />
 
           <div className="prompt all-prompt">
             <span className="verb-line">
@@ -485,15 +487,11 @@ function QuizHeader({
   tense,
   answered,
   correct,
-  streak,
-  best,
   poolSize,
 }: {
   tense: Tense
   answered: number
   correct: number
-  streak: number
-  best: number
   poolSize: number
 }) {
   return (
@@ -505,14 +503,6 @@ function QuizHeader({
           <span className="stat-value">
             {correct}/{answered}
           </span>
-        </div>
-        <div className="stat">
-          <span className="stat-label">Streak</span>
-          <span className="stat-value">{streak}</span>
-        </div>
-        <div className="stat">
-          <span className="stat-label">Best</span>
-          <span className="stat-value">{best}</span>
         </div>
         <div className="stat">
           <span className="stat-label">Verbs</span>
